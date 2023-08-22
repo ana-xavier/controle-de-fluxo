@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70797f60-9c99-4000-a28e-3768c7358f51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Contador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParametrosInvalidosException.java" afterDir="false" />
-    </list>
+    <list default="true" id="70797f60-9c99-4000-a28e-3768c7358f51" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +32,12 @@
     "last_opened_file_path": "C:/Users/ADA/Documents/DIO/controle-de-fluxo"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADA\Documents\DIO\controle-de-fluxo\.idea" />
+      <recent name="C:\Users\ADA\Documents\DIO\controle-de-fluxo" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
